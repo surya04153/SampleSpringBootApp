@@ -13,7 +13,7 @@ public class HelloworldApplication {
 	@RequestMapping("/")
 	@ResponseBody
 	String home() {
-		return "<marquee behavior=\"scroll\" direction=\"left\" scrollamount=\"10\"><h1>Hello World...</h1></marquee>\n" + "";
+		return "<marquee behavior=\"scroll\" direction=\"left\" scrollamount=\"10\"><h1>My first AWS based springboot web application-Kudos surya</h1></marquee>\n" + "";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(HelloworldApplication.class, args);

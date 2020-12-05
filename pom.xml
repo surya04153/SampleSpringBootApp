@@ -11,7 +11,7 @@
 	<groupId>com.ashu</groupId>
 	<artifactId>application</artifactId>
 	<name>Helloworld</name>
-	<description>Demo project for Spring Boot aws1</description>
+	<description>Demo project for Spring Boot aws2</description>
 	<packaging>jar</packaging>
 	
 	<properties>

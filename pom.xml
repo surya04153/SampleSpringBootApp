@@ -13,7 +13,9 @@
 	<name>Helloworld</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>jar</packaging>
-
+	<build>
+   		<finalName>application</finalName>
+	 </build>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
